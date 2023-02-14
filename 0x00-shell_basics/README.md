@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shell Basics
 * 0-current_working_directory: prints the current working directory
 * 1-listit: prints contents of directory
@@ -19,3 +20,6 @@
 * 17-tree: create a directory tree in one line
 * 18-commas: custom ls with sort
 * holberton.mgc: magic file holberton.mgc that can be used with the command file to detect Holberton data files
+=======
+A new file
+>>>>>>> 14667775b12af202b65521f79ee29e9311d73e5d

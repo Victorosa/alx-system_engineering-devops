@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 mkdir /tmp/holberton
+=======
+mkdir /tmp/my_first_directory/
+>>>>>>> 14667775b12af202b65521f79ee29e9311d73e5d

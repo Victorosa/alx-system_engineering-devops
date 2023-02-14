@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find -mindepth 1 -type d | wc -l
+=======
+find . -type d ! -path . | wc -l
+>>>>>>> 14667775b12af202b65521f79ee29e9311d73e5d

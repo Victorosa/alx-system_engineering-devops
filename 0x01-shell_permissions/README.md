@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shell Permissions
 * 0-iam_betty: script that changes your user ID to betty
 * 1-who_am_i: script that prints the userid of the current user
@@ -18,3 +19,7 @@
 * 16-if_only: script that changes the owner conditionally
 * 100-Star_Wars
 * 101-man_holberton
+=======
+# alx-system_engineering-devops
+alx-student
+>>>>>>> 14667775b12af202b65521f79ee29e9311d73e5d
