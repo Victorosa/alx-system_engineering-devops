@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Shell Basics
 * 0-current_working_directory: prints the current working directory
 * 1-listit: prints contents of directory
@@ -23,3 +24,6 @@
 =======
 A new file
 >>>>>>> 14667775b12af202b65521f79ee29e9311d73e5d
+=======
+script that prints the absolute path name of the current working directory
+>>>>>>> 1d06ec4447c1679c9b10dd059b1ced300ba01415

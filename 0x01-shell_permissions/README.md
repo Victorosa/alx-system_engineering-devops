@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Shell Permissions
 * 0-iam_betty: script that changes your user ID to betty
 * 1-who_am_i: script that prints the userid of the current user
@@ -23,3 +24,7 @@
 # alx-system_engineering-devops
 alx-student
 >>>>>>> 14667775b12af202b65521f79ee29e9311d73e5d
+=======
+#!/bin/bash
+any thing
+>>>>>>> 1d06ec4447c1679c9b10dd059b1ced300ba01415

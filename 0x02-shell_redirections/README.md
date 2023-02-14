@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Shell, I/O Redirections and Filters
 * 0-hello_world: script that prints “Hello, World”, followed by a new line to the standard output
 * 1-confused_smiley: script that displays a confused smiley
@@ -30,3 +31,6 @@
 =======
 Hi alx alolo
 >>>>>>> 14667775b12af202b65521f79ee29e9311d73e5d
+=======
+alx-system_engineering-devops
+>>>>>>> 1d06ec4447c1679c9b10dd059b1ced300ba01415
